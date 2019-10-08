@@ -1,5 +1,9 @@
 #include <iostream>
 
+void sayFenzhi() {
+    std::cout << "fenzhi" << std::endl;
+}
+
 void sayHello () {
     std::cout << "hello world!" << std::endl;
 }
