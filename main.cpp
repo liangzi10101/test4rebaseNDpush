@@ -13,7 +13,7 @@ void sayZhugan () {
 }
 
 int main () {
-    sayZhugan();
+    sayFenzhi();
     
     return 0;
 }
