@@ -13,7 +13,7 @@ void sayZhugan () {
 }
 
 int main () {
-    sayHello();
+    sayZhugan();
     
     return 0;
 }
